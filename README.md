@@ -78,17 +78,6 @@ output/ # Output folder for denoised results
     - Train the autoencoder
     - Visualize input vs. denoised outputs
 
----
-
-## 🔍 Sample Results
-
-| Noisy Input        | Denoised Output       |
-|--------------------|-----------------------|
-| ![input](examples/input_1.png) | ![output](examples/output_1.png) |
-
-_(add example visuals if available)_
-
----
 
 ## 🛠 Tools & Libraries
 
